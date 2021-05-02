@@ -1,0 +1,12 @@
+.duration {
+    display: flex;
+    flex-direction: row;
+}
+
+.duration input {
+    width: 50px;
+}
+
+.duration label {
+    color: #949494;
+}

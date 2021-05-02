@@ -1,0 +1,9 @@
+#timer-extension--timer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 99999;
+
+    font-size: 20px;
+    font-family: sans-serif;
+}
